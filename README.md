@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rebika2002
 - 👀 I’m interested in visualization and web development.
-- 🌱 I’m currently learning Advanced SQL and python.
+- 🌱 I’m currently learning Advanced SQL and Python.
 - 💞️ I’m looking to collaborate on Advanced SQL
 - 📫 How to reach me : You can reach me at rebikakapoor@gmail.com.
 
